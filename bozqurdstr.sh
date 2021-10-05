@@ -15,7 +15,7 @@ pip install bs4
 clear
 echo -e $MESAJ
 echo "Fayl yazılır..."
-curl "https://raw.githubusercontent.com/aykhan026/bozqurd/main/bozqurd.py" --output "bozqurd.py"
+curl "https://raw.githubusercontent.com/aykhan026/bozqurduserbot/main/bozqurd.py" --output "bozqurd.py"
 clear
 echo -e $MESAJ
 echo "Qurulum Bitdi! İndi String Ala Bilərsiz."
