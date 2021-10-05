@@ -363,10 +363,10 @@
             "GOODMORNIN_YALL": "`Sabahınız xeyir!`",
             "GOODBYE_MFRS": "`Görüşənədək... *Windows XP söndürlmə səsi*`",
             "RESTARTING": "`Bot yenidən qoşulur..`",
-            "SUPPORT_GROUP": "[Buradan](http://t.me/bozqurdsup) Dəstək qrupumuza çata bilərsiniz.",
-            "CREATOR": "Bu bot \n[Aykhan](https://t.me/aykhan026) tərəfindən hazırlanmışdır. \n",
-            "README": "[BozQurd README.md](https://github.com/aykhan026/BozQurd/blob/main/README.md)",
-            "REPO": "[BozQurd Repo](https://github.com/aykhan026/bozqurd)",
+            "SUPPORT_GROUP": "[Buradan](http://t.me/BozQurdsup) Dəstək qrupumuza çata bilərsiniz.",
+            "CREATOR": "Bu bot \n[Babaş](https://t.me/c0alaa) tərəfindən hazırlanmışdır. \n",
+            "README": "[BozQurd README.md](https://github.com/thec0ala/BozQurd/blob/main/README.md)",
+            "REPO": "[BozQurd Repo](https://github.com/thec0ala/BozQurd)",
             "CHECK_LOGS": "`Tapılmış Mesaj üçün istifadəçi qeydlərini yoxlayın!`"
         },
 
@@ -594,9 +594,9 @@
             "DO_UPDATE": "`Güncəllənməni etmək üçün \".update now\" komandasını istifadə edin.`",
             "FORCE_UPDATE": "`Cari sabit istifadəçi bot kodu zorla sinxronizasiya olunur...`",
             "UPDATING": "`Bot yenilənir...`",
-            "INVALID_APPNAME": "`[BOZQURD UPDATER] Güncəlləmədən istifadə etmək üçün HEROKU_APPNAME dəyişənini təyin etməlisiniz.`",
+            "INVALID_APPNAME": "`[HEROKU UPDATER] Güncəlləmədən istifadə etmək üçün HEROKU_APPNAME dəyişənini təyin etməlisiniz.`",
             "INVALID_HEROKU": "{}\n`Heroku dəyişənləri səhv və ya müəyyənləşdirilmişdir.`",
-            "HEROKU_UPDATING": "♻️ **YENİLƏNİR**\n 🐺**BozQurd** daha yaxşı olacağına əmin ola bilərsiniz. Bu müddət maksimum 5 dəqiqə çəkir.\n@BozQurdResmi",
+            "HEROKU_UPDATING": "`[HEROKU UPDATER]\nUserBot-unuzun daha yaxşı olacağına əmin ola bilərsiniz. Bu müddət maksimum 10 dəqiqə çəkir.`\n@BozQurdResmi",
             "ERRORS": "Qarşılaşdığımız səhflər bunlardır",
             "SUCCESSFULLY": "`Yeniləmə uğurla başa çatdı! \n Yenidən yüklənir ...`"
         },
