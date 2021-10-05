@@ -150,7 +150,7 @@ def extractCommands(file):
 try:
     bot.start()
     idim = bot.get_me().id
-    bozqurdbl = requests.get('https://raw.githubusercontent.com/aykhan026/bozqurd/main/bozqurdblacklist.json').json()
+    bozqurdbl = requests.get('https://raw.githubusercontent.com/aykhan026/bozqurduserbot/master/bozqurdblacklist.json').json()
     if idim in bozqurdbl:
         bot.disconnect()
 
