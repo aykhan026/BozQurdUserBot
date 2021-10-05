@@ -86,7 +86,7 @@ HEROKU_APIKEY = os.environ.get("HEROKU_APIKEY", None)
 # Yenileme üçün repo linki
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/aykhan026/bozqurd.git")
+    "https://github.com/aykhan026/bozqurduserbot.git")
 
 # Konsol gündeliy
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -340,7 +340,7 @@ Hesabınızı bot'a çevirə bilərsiz və bunları işlədə bilərsiz. Unutmay
                         [custom.Button.url("Kanal", "https://t.me/BozQurdResmi"), custom.Button.url(
                             "Qrup", "https://t.me/BozQurdSup")],
                         [custom.Button.url(
-                            "GitHub", "https://github.com/aykhan026/bozqurd")]
+                            "GitHub", "https://github.com/aykhan026/bozqurduserbot")]
                     ],
                     link_preview=False
                 )
