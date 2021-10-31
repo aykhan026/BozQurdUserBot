@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/aykhan026/BozQurd",
+  "repository": "https://github.com/aykhan026/BozQurdUserBot",
   "website":   "",
   "success_url": "https://t.me/bozqurdsup",
   "stack": "container",
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork təqdim etməyiniz vəziyyətində repo URL-nizi buraya əlavə edin. Varsayılan olaraq öz repo adresimiz yazılmışdır.",
-      "value": "https://github.com/aykhan026/BozQurd",
+      "value": "https://github.com/aykhan026/BozQurdUserBot",
       "required": true
     },
     "COUNTRY": {
