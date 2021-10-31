@@ -31,11 +31,11 @@ __________________________________________________
 ### Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Faykhan026%2Fbozqurd&plugins=postgresql&envs=ANTI_SPAMBOT%2CANTI_SPAMBOT_SHOUT%2CAPI_HASH%2CAPI_KEY%2CAVTO_PP%2CAVTO_QATILMA%2CBIO_PREFIX%2CBOT_TOKEN%2CBOT_USERNAME%2CBOTLOG%2CBOTLOG_CHATID%2CCHROME_DRIVER%2CCLEAN_WELCOME%2CCONSOLE_LOGGER_VERBOSE%2CCOUNTRY%2CDEFAULT_BIO%2CG_DRIVE_AUTH_TOKEN_DATA%2CG_DRIVE_CLIENT_ID%2CG_DRIVE_CLIENT_SECRET%2CGENIUS%2CGOOGLE_CHROME_BIN%2CLANGUAGE%2CLASTFM_API%2CLASTFM_PASSWORD%2CLASTFM_SECRET%2CLASTFM_USERNAME%2CLOGSPAMMER%2CLYDIA_API_KEY%2COCR_SPACE_API_KEY%2COPEN_WEATHER_MAP_APPID%2CPAKET_ISMI%2CPLUGIN_CHANNEL_ID%2CPM_AUTO_BAN%2CPM_AUTO_BAN_LIMIT%2CQALERIYA_VAXT%2CREM_BG_API_KEY%2CSPOTIFY_DC%2CSPOTIFY_KEY%2CSTRING_SESSION%2CTMP_DOWNLOAD_DIRECTORY%2CTZ%2TZ_NUMBER%2CUPSTREAM_REPO_URL%2CWARN_LIMIT%2CWARN_MODE%2CWEATHER_DEFCITY%2CYOUTUBE_API_KEY)
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/BozQurd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/BozQurdUserBot)
 __________________________________________________
 ### Vps server üçün
 ```python
-git clone https://github.com/aykhan026/BozQurd.git
+git clone https://github.com/aykhan026/BozQurdUserBot.git
 cd BozQurd
 pip install -r requirements.txt
 # Config.env yaradın ve tenzimleyin. #
