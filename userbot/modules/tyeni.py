@@ -270,41 +270,7 @@ cumle = (
 "Batan günəş üçün ağlamayın; yenidən doğulduğunda nə edəcəyinizə qərar verin. Dale Camegie",
 )
 
-# Normal Tağ
-@aykhan(outgoing=True, pattern="^.ntag(?: |$)(.*)")
-async def _(q):
- if q.fwd_from:
-  return
 
- if q.pattern_match.group(1):
-  seasons = q.pattern_match.group(1)
- else:
-  seasons = ""
-
- chat = await q.get_input_chat()
- a_=0
- await q.delete()
- async for i in bot.iter_participants(chat):
-  if a_ == 5000:
-   break
-  a_+=1
-  await q.client.send_message(q.chat_id, "{} {}".format(i.first_name, i.id, seasons))
-  sleep(4)
-
-@aykhan(outgoing=True, pattern="^.tagall$")
-async def _(event):
-    if event.fwd_from:
-        return
-    mentions = "@tag"
-    chat = await event.get_input_chat()
-    leng = 0
-    async for x in  event.client.iter_participants(chat):
-        if leng < 4092:
-            mentions += f"[{x.first_name}](tg://user?id={x.id})"
-            leng += 1
-    await event.reply(mentions)
-    await event.edit("❤️ **Normal Tağ Başladı**\n⏱️ **İnterval** - 1 saniyə\n👤 **User sayı** - 5")
-    
 # Adlarla Tağ
 @aykhan(outgoing=True, pattern="^.adtag.*")
 async def adtag(event):
