@@ -1,6 +1,6 @@
 # RoBotlarimTg - tyeni.py
-# Yazılanları silmədən istədiyiniz
-# UserBot da istifadə edə bilərsiniz
+# Bu fayldan hər hansı bir şeyi
+# Kopyalayan Peysərdi
 # Sahib - @aykhan_s
 
 import random
