@@ -1,6 +1,6 @@
 # RoBotlarimTg - tyeni.py
-# Yazılanları silmədən istədiyiniz
-# UserBot da istifadə edə bilərsiniz
+# Burdan hər hansı bir şeyi
+# Kopyalayan Peysərdi...!!!
 # Sahib - @aykhan_s
 
 import random
@@ -42,6 +42,83 @@ reqem = (
  "9️⃣",
 )
 # Əkmə Oğlum...!!!
+status = (
+"𝐀𝐦𝐚 𝐚𝐫𝐭ı𝐤 𝐢𝐧𝐚𝐧𝐜ı𝐦 𝐲𝐨𝐤, 𝐧𝐞 𝐬𝐢𝐳𝐞 𝐧𝐞 𝐠ü𝐳𝐞𝐥 𝐠ü𝐧𝐥𝐞𝐫𝐞..’📌🕊",
+"İ𝐤𝐢𝐧𝐜𝐢 ş𝐚𝐧𝐬𝐚 𝐠𝐞𝐫𝐞𝐤 𝐲𝐨𝐤, 𝐢𝐧𝐬𝐚𝐧𝐥𝐚𝐫 𝐚𝐬𝐥𝐚 𝐝𝐞𝐠𝐢ş𝐦𝐞𝐳..!",
+"𝐌𝐞𝐬𝐚𝐟𝐞 𝐃𝐞𝐝𝐢𝐠‌𝐢𝐧 𝐍𝐞𝐝𝐢𝐫 𝐤𝐢 𝐁𝐢𝐳 𝐀𝐥𝐥𝐚𝐡𝐢 𝐆𝐨‌𝐫𝐦𝐞𝐝𝐞𝐧 𝐒𝐞𝐯𝐦𝐞𝐝𝐢𝐤 𝐌𝐢 🕊️",
+"𝑲𝒖𝑺𝒖𝒓𝒂 𝑩𝒂𝒌𝒎𝒂 𝑨𝑵𝑵𝑬𝑴𝒊𝑵 𝑮𝒖‌𝒍𝒖‌𝒔‌𝒖‌ 𝑲𝒂𝒅𝒂𝒓 𝑮𝑼‌𝒁𝑬𝑳 𝑫𝒆𝒈‌𝒊𝒍𝒔𝒊𝒏 ♥️🕊️",
+"𝑨𝒏𝒍𝒂𝒎𝒍𝜾 𝑺𝒐‌𝒛𝒍𝒆𝒓 𝒀𝒂𝒛𝒎𝒂𝒚𝒂 𝑮𝒆𝒓𝒆𝒌 𝒀𝒐𝒌. 𝑨𝒏𝒍𝒂𝒎𝒔𝜾𝒛 𝑩𝒊𝒓 𝑯𝒂𝒚𝒂𝒕 𝒀𝒂𝒔‌𝜾𝒚𝒐𝒓𝒌𝒆𝒏...🕊🖤",
+"𝐓𝐞𝐥𝐚𝐟𝐢𝐬𝐢 𝐨𝐥𝐦𝐚𝐲𝐚𝐧 𝐬‌𝐞𝐲𝐥𝐞𝐫 𝐲𝐚𝐬‌𝐚𝐧𝐦𝐚𝐝ı 𝐛𝐞𝐧 𝐜‌𝐚𝐛𝐚𝐬ı𝐳𝐥𝛊𝐠‌ı𝐧𝐚 𝐤ı𝐫𝐠ı𝐧ı𝐦... 🥀🍷",
+"𝑩𝒆𝒏 𝒈𝒐‌𝒏𝒍𝒖‌𝒎𝒖‌ 𝒔𝒂𝒏𝒂 𝒔𝒆𝒎𝒂𝒗𝒆𝒓 𝒚𝒂𝒑𝒕ı𝒎. 𝑺𝒆𝒏 𝒈𝒊𝒕𝒕𝒊𝒏 𝒔𝒂𝒍𝒍𝒂𝒎𝒂 𝒄‌𝒂𝒚𝒂 𝒔‌𝒆𝒌𝒆𝒓 𝒐𝒍𝒅𝒖𝒏😉",
+"𝐇𝐚𝐭𝛊𝐫𝐥𝐚𝐝𝛊𝐧 𝐦𝛊 𝐁𝐞𝐧 𝐒𝐚𝐧𝐚 𝐇𝐚𝐲𝐚𝐥𝐥𝐞𝐫𝐢𝐦𝐢 𝐒𝐞𝐧 𝐁𝐚𝐧𝐚 𝐘𝐚𝐥𝐚𝐧𝐥𝐚𝐫𝛊𝐧𝛊 𝐀𝐧𝐥𝐚𝐭𝛊𝐫𝐝𝛊𝐧.. 🍂",
+"𝗗𝘂‌𝗻𝘆𝗮𝗻𝗶𝗻 𝗗𝗲𝗿𝗱𝗶 𝗡𝗲𝗿𝗲𝘀𝗶𝗱𝗶𝗿 𝗕𝗶𝗹𝗺𝗲𝗺 𝗔𝗺𝗮 𝗗𝗲𝗿𝗺𝗮𝗻𝗶 “𝗔𝗡𝗡𝗘𝗠𝗜‌𝗡” 𝗗𝗶𝘇𝗹𝗲𝗿𝗶𝗻𝗱𝗲𝗱𝗶𝗿…🥀",
+"𝑽𝒆𝒅𝒂𝒍𝒂𝒓, 𝒂𝒏𝒄𝒂𝒌 𝒈𝒖‌𝒛𝒆𝒍 𝒚𝒖‌𝒓𝒆𝒌𝒍𝒆𝒓𝒊 𝒂𝒄𝜾𝒕𝜾𝒓.🕊️",
+"𝐒𝐮𝐬𝐦𝐮𝐬‌ 𝐛𝐢𝐫 𝐊𝐚𝐝𝛊𝐧 𝐢𝐜‌𝐢𝐧,𝐁𝐢𝐭𝐦𝐢𝐬‌ 𝐛𝐢𝐫 𝐀𝐝𝐚𝐦𝐬𝛊𝐧.🖤 kesinlikle👌",
+"🕋꧁ঔ𝑳ə𝒃𝒃𝒆𝒚𝒌ə❤𝒚𝒂❤𝑯𝒖‌𝒔𝒆𝒚𝒏♥️﷽ℓฉ iℓฉhฉ ∞الله ∞ iℓℓฉ Аllah❤️",
+"𝑨𝒈‌𝒂𝒄‌𝒅𝒂𝒏 𝒅𝒖‌𝒔‌𝒆𝒏 𝒚𝒂𝒑𝒓𝒂𝒌 𝒌𝒖𝒓𝒖𝒎𝒂𝒚𝒂, 𝒈𝒐‌𝒏𝒖‌𝒍𝒅𝒆𝒏 𝒅𝒖‌𝒔‌𝒆𝒏 𝒊𝒏𝒔𝒂𝒏 𝒅𝒂 𝒖𝒏𝒖𝒕𝒖𝒍𝒎𝒂𝒚𝒂 𝒎𝒂𝒉𝒌𝒖𝒎𝒅𝒖𝒓..",
+"𝑻𝒆𝒌 𝑲𝜾𝒚𝒂𝒎𝒂𝒅𝜾𝒈‌𝜾𝒎 𝑽𝒂𝒓𝒅𝜾,𝑲𝒆𝒏𝒅𝒊 𝑲𝒆𝒏𝒅𝒊𝒏𝒊 𝑺𝒊𝒍𝒅𝒊🥂",
+"𝐄𝐥ə 𝐁𝐢𝐫 𝐌𝐮𝐬𝐢𝐪𝐢𝐬ə𝐧 ♪ 𝐇ə𝐫 𝐍𝐨𝐭𝐮𝐧𝐝𝐚 𝐇ə𝐬𝐫ə𝐭 𝐕𝐚𝐫",
+"‘‘𝑩𝒊𝒓 𝒅𝒖𝒂𝒎 𝒗𝒂𝒓, 𝒃𝒊𝒓𝒅𝒆 𝒅𝒖𝒚𝒂𝒏ı𝒎. 𝑮𝒆𝒓𝒊𝒔𝒊 𝒄𝒐𝒌𝒕𝒂 𝒎𝒖𝒉𝒊𝒎 𝒅𝒆𝒈𝒊𝒍’’🖤🥀",
+"ẞ𝒆𝒏𝒅𝒆𝒏 𝒖𝒛𝒂𝒌 ẞ𝒊𝒓𝒚𝒆𝒓𝒅𝒆 𝑯𝒆𝒓 ş𝒆𝒚 𝒈𝒐‌𝒏𝒍𝒖‌𝒏𝒖‌𝒛𝒄𝒆 𝒐𝒍𝒔𝒖𝒏.🍷🖤",
+"𝐎‌𝐲𝐥𝐞 𝐛𝐢𝐫 𝐌𝐚𝐡𝐤𝐞𝐦𝐞𝐲e 𝐂‌𝛊𝐤𝛊𝐜𝐚𝐳 𝐤𝐢 𝐇𝐚𝐤𝐢𝐦𝐢𝐧 𝐊𝐞𝐧𝐝𝐢𝐬𝐢 𝐒‌𝐚𝐡𝐢𝐭🥀🖤",
+"✫𝙽𝚎 ç𝚘𝚡 ö𝚕𝚍ü𝚔 𝚋𝚒𝚛 𝚊𝚣 𝚢𝚊ș𝚊𝚖𝚊𝚚 üçü𝚗✫",
+"𝑨𝒍𝒍𝒂𝒉 𝒈𝒆𝒕𝒅𝒊𝒚𝒊𝒏𝒊𝒛 𝒚𝒐𝒍𝒍𝒂𝒓ı 𝒅𝒐𝒈‌𝒓𝒖 𝒊𝒏𝒔𝒂𝒏𝒍𝒂𝒓𝒂 𝒄ı𝒙𝒂𝒓𝒔ı𝒏.🌘",
+"𝖡𝖾𝗇 𝖻𝗂𝗅𝗂𝗋𝗂𝗆𝗄𝗂 𝖳𝖾𝗄 𝗒𝖺𝗋 𝖸𝖺𝗋𝖺𝖽𝖺𝗇𝖽ı𝗋 𝗀𝖾𝗋𝗂𝗌𝗂 𝗌𝖺𝖽𝖾𝖼𝖾 𝗒𝖺𝗋𝖺𝗅𝖺𝗒𝖺𝗇𝖽ı𝗋.🖤🩹",
+"𝗲𝗴𝗲𝗿 𝗯𝗶𝗿 𝗴ü𝗻 𝘆𝗮𝗻ı𝗻𝗱𝗮 𝗸𝗶𝗺𝘀𝗲 𝗼𝗹𝗺𝗮𝘀𝗮 𝗕𝗶𝗿𝗮𝗸𝗱𝗶𝗴𝗶𝗻 𝘆𝗲𝗿𝗱ə 𝗼𝗹𝗮𝗰𝗮𝗺😏",
+"𝑩𝒊𝒓 𝒊𝒏𝒔𝒂𝒏𝜾 𝒚𝒂𝒍𝒂𝒏𝒍𝒂𝒓𝒍𝒂 𝒌𝒂𝒛𝒂𝒏𝒎𝒂𝒌 𝒚𝒆𝒓𝒊𝒏𝒆 𝒅𝒐𝒈‌𝒓𝒖𝒍𝒂𝒓𝒍𝒂 𝒌𝒂𝒚𝒃𝒆𝒕𝒎𝒆𝒚𝒊 𝒕𝒆𝒓𝒄𝒊𝒉 𝒆𝒅𝒆rim",
+"𝙆ı𝙯𝙙ı𝙣 𝙢ı 𝙛𝙖𝙡𝙖𝙣 𝙜𝙚𝙘̧𝙞𝙮𝙤𝙧 𝙙𝙖, 𝙎𝙤𝙜̆𝙪𝙙𝙪𝙣 𝙢𝙪 𝙘̧𝙖𝙧𝙚𝙨𝙞 𝙮𝙤𝙠..",
+"• 𝑯𝒆𝒚𝒂𝒕 𝒈𝒐̈𝒛𝒆𝒍𝒅𝒊𝒓 𝒅𝒆𝒅𝒊 • 𝑪̧𝒂𝒚𝒌𝒐𝒗𝒔𝒌𝒊 ... • 𝑽𝒆 1 𝒊𝒍 𝒔𝒐𝒏𝒓𝒂 𝒐̈𝒛𝒖̈𝒏𝒖̈ 𝒂𝒔𝒅𝜾 ... 🥀",
+"𝕙𝕒𝕥𝕒 𝕓𝕚𝕫𝕕𝕖❕ 𝕪𝕒𝕟𝕝𝕚𝕤 𝕚𝕟𝕤𝕒𝕟𝕝𝕒𝕣𝕒 𝕚𝕪𝕚 𝕜𝕚 𝕧𝕒𝕣𝕤𝕚𝕟 𝕕𝕖𝕕𝕚𝕜💔",
+"𝒃𝒂𝒛𝒆𝒏 𝒔𝒂𝒅𝒆𝒄𝒆 𝒔𝒆𝒗𝒆𝒓𝒔𝒊𝒏 ö𝒕𝒆𝒔𝒊 𝒚𝒐𝒌..༗",
+"º°”“𝙕𝙖𝙢𝙖𝙣 𝙖𝙠ı𝙥 𝙜𝙚ç𝙞𝙮𝙤𝙧. 𝙖𝙮𝙣ı 𝙮𝙚𝙧𝙙𝙚𝙨𝙞𝙣 𝙖𝙢𝙖 𝙖𝙮𝙣ı 𝙠𝙞ş𝙞 𝙙𝙚ğ𝙞𝙡𝙨𝙞𝙣.”♡●",
+"𝓗𝓮𝓻𝓴𝓮𝓼 𝓴𝓪𝔂𝓫𝓮𝓽𝓽𝓲𝓰̆𝓲𝓷𝓮 𝔂𝓪𝓷𝓼𝓲𝓷 𝓼𝓮𝓷 𝓫𝓪𝓷𝓪 𝓫𝓮𝓷 𝔃𝓪𝓶𝓪𝓷𝓪 🥀",
+"𝒃𝒊𝒛𝒊 𝒔𝒆𝒗𝒊𝒚𝒐𝒓𝒎𝒖𝒔̧ 𝒈𝒊𝒃𝒊 𝒚𝒂𝒑𝒂𝒏𝒂 𝒃𝒊𝒛𝒅𝒆 𝒊𝒏𝒂𝒏𝜾𝒚𝒐𝒓𝒎𝒖𝒔̧ 𝒈𝒊𝒃𝒊 𝒚𝒂𝒑𝒂𝒓𝜾𝒛 🕊️🥀",
+"༆ 𝑯𝒂𝒚𝒂𝒕 𝑻𝒖̈𝒌𝒆𝒏𝒆𝒏 𝑩𝒊𝒓 𝒌𝒂𝒍𝒆𝒎𝒆 𝑻𝒖̈𝒌𝒆𝒏𝒎𝒆𝒛 𝑫𝒆𝒅𝒊𝒌𝒍𝒆𝒓𝒊 𝑲𝒂𝒅𝒂𝒓 𝒀𝒂𝒍𝒂𝒏 .. ༆🌹",
+)
+# Əkmə Oğlum...!!!
+musiqi = (
+"🎵 1. MegaBeatsZ - Darıxmışam Sənin Üçün Remix",
+"🎵 2. Ulviyye Namazova-İlk Esqim ",
+"🎵 3. İdo Tatlıses - Bileklerime Kadar Acıyo",
+"🎵 4. Ezhel - Bul Beni ",
+"🎵 5. CKay - Love Nwantiti Remix ft. Joeboy & Kuami Eugene Official Video",
+"🎵 6. Farid Gasanov - Dolar Prod by. SarkhanBeats ",
+"🎵 7. Murat Göğebakan - Vurgunum -  Official Video",
+"🎵 8. Javid - Ruhumun Sesi official video",
+"🎵 9. Tombul Tombul",
+"🎵 10. ЛСП - Бэйби Remix ",
+"🎵 11. Ece Mumay - Peri ",
+"🎵 12. Eminem - Lose Yourself [HD]",
+"🎵 13. Çətin - Sebine Celalzade cover Natavan Habibi 2021 ",
+"🎵 14. Фанк",
+"🎵 15. Murat Dalkilic feat. Boygar - Leyla",
+"🎵 16. Rübabə Muradova-Unuda Bilmirəm ",
+"🎵 17. Talıb Tale - Ola Xəbəri 2018 full_HD_Music ",
+"🎵 18. İlkin Abbasov ft.Lila - Travma ",
+"🎵 19. ЛСП & Oxxxymiron - Безумие Remix ",
+"🎵 20. Retro - Lənət qadın Official Music Video ",
+"🎵 21. Sezen Aksu - Küçüğüm Lyrics | Şarkı Sözleri ",
+"🎵 22. Miyagi & Эндшпиль feat. Рем Дигга - I Got Love Official Video",
+"🎵 23. Gorillaz - Clint Eastwood Official Video ",
+"🎵 24. BoyWithUke - Toxic Lyrics ",
+"🎵 25. Kore Klip - Inanirim ",
+"🎵 26. Elsevər Rahimov - Sən Olmayan ",
+"🎵 27. Rauf Faik - детство Official audio",
+"🎵 28. Ufuk Beydemir - Ay Tenli Kadın",
+"🎵 29. Kurtuluş Kuş & Burak Bulut - Baba Yak",
+"🎵 30. Athena - Kafama Göre ",
+"🎵 1. Непара - Другая семья официальный клип ",
+"🎵 2. XXXTENTACION - Hope ",
+"🎵 3. Nuri Serinlendirici & Jane - HEYATIMA XOS GELDIN ",
+"🎵 4. Иракли   Лондон   Париж ",
+"🎵 5. INSTASAMKA - Juicy Премьера клипа, 2021, prod. realmoneyken ",
+"🎵 6. İrem Derici - Acemi Balık ",
+"🎵 7. İrem Derici - Acemi Balık ",
+"🎵 8. Retro Video Club - Chemistry Official Video ",
+"🎵 9. Night In ",
+"🎵 10. The Cult - Brother Wolf; Sister Moon ",
+)
+# Əkmə Oğlum...!!!
 ad = (
  "Şirin💞",
  "Dəcəl👀",
@@ -56,6 +133,10 @@ ad = (
  "Ürəy❤️",
  "Evli💍",
  "Dəli😉",
+ "Flamingo🦩",
+ "Tosbik 🐢 ",
+ "Dino 🦖",
+ "Kermit🐸",
  "Subay😜",
  "Sərxoş🥴",
  "Kəpənəy🦋",
@@ -81,7 +162,7 @@ ad = (
  "Qızılgül🌹",
  "Bikef🙄",
  "Xəstə🤒",
- "Ufo🛸",
+ "UFO🛸",
  "Şanslı🔮",
  "Avara🚬",
  "Futbolçu⚽",
@@ -123,6 +204,7 @@ ad = (
  "Payız🍂",
  "Qar❄️",
  "Qasırğa🌀",
+ "Kaktus🌵"
  "Mesaj💌",
  "Vulkan🌋",
  "Pizza🍕",
@@ -130,6 +212,18 @@ ad = (
  "Soyuq🥶",
  "Dino🦕",
  "Ay🌙",
+ "Günəbaxan🌻",
+ "🛸Plutonium",
+ "🪐Neptune",
+ "🌀Uranus",
+ "🍂Saturn",
+ "💫Jupiter",
+ "🌑Mars",
+ "🌍Earth",
+ "🌪️Venus",
+ "☄️Mercury",
+ "☀Sun",
+ "⭐General",
  "Meteor☄️",
  "Hicablı🧕",
  "Gözəl💅",
@@ -270,40 +364,6 @@ cumle = (
 "Batan günəş üçün ağlamayın; yenidən doğulduğunda nə edəcəyinizə qərar verin. Dale Camegie",
 )
 
-# Normal Tağ
-@aykhan(outgoing=True, pattern="^.ntag(?: |$)(.*)")
-async def _(q):
- if q.fwd_from:
-  return
-
- if q.pattern_match.group(1):
-  seasons = q.pattern_match.group(1)
- else:
-  seasons = ""
-
- chat = await q.get_input_chat()
- a_=0
- await q.delete()
- async for i in bot.iter_participants(chat):
-  if a_ == 5000:
-   break
-  a_+=1
-  await q.client.send_message(q.chat_id, "{} {}".format(i.first_name, i.id, seasons))
-  sleep(4)
-
-@aykhan(outgoing=True, pattern="^.tagall$")
-async def _(event):
-    if event.fwd_from:
-        return
-    mentions = "@tag"
-    chat = await event.get_input_chat()
-    leng = 0
-    async for x in  event.client.iter_participants(chat):
-        if leng < 4092:
-            mentions += f"[{x.first_name}](tg://user?id={x.id})"
-            leng += 1
-    await event.reply(mentions)
-    await event.edit("❤️ **Normal Tağ Başladı**\n⏱️ **İnterval** - 1 saniyə\n👤 **User sayı** - 5")
     
 # Adlarla Tağ
 @aykhan(outgoing=True, pattern="^.adtag.*")
@@ -482,13 +542,86 @@ async def ctag(event):
                   await asyncio.sleep(3) 
       finally:
           FlagContainer.is_active = False
+
+# Muisiqi Tağ
+@aykhan(outgoing=True, pattern="^.mtag.*")
+async def mtag(event):
+      if event.fwd_from or FlagContainer.is_active:
+          return
+      try:
+          FlagContainer.is_active = True
   
+          sozmus = None
+          aykhan6 = event.message.text.split(" ", 1)
+          if len(aykhan6) > 1:
+              sozmus = aykhan6[1]
+  
+          chat = await event.get_input_chat()
+          await event.edit("❤️ **Musiqi Adlarıyla Tağ Başladı**\n⏱️ **İnterval** - 3 saniyə\n👤 **User sayı** - 1")
+  
+          tags = list(map(lambda m: f"[{random.choice(musiqi)}](tg://user?id={m.id})", await event.client.get_participants(chat)))
+          current_pack = []
+          async for participant in event.client.iter_participants(chat):
+              if not FlagContainer.is_active:
+                  break
+  
+              current_pack.append(participant)
+  
+              if len(current_pack) == 1: 
+                  tags = list(map(lambda m: f"[{random.choice(musiqi)}](tg://user?id={m.id})", current_pack))
+                  current_pack = []
+  
+                  if sozmus:
+                      tags.append(sozmus)
+  
+                  await event.client.send_message(event.chat_id, " ".join(tags))
+                  await asyncio.sleep(3) 
+      finally:
+          FlagContainer.is_active = False
+          
+# Statuslarla Tağ
+@aykhan(outgoing=True, pattern="^.stag.*")
+async def stag(event):
+      if event.fwd_from or FlagContainer.is_active:
+          return
+      try:
+          FlagContainer.is_active = True
+  
+          sozsts = None
+          aykhan7 = event.message.text.split(" ", 1)
+          if len(aykhan7) > 1:
+              sozsts = aykhan7[1]
+  
+          chat = await event.get_input_chat()
+          await event.edit("❤️ **Status Mesajlarıyla Tağ Başladı**\n⏱️ **İnterval** - 3 saniyə\n👤 **User sayı** - 1")
+  
+          tags = list(map(lambda m: f"[{random.choice(status)}](tg://user?id={m.id})", await event.client.get_participants(chat)))
+          current_pack = []
+          async for participant in event.client.iter_participants(chat):
+              if not FlagContainer.is_active:
+                  break
+  
+              current_pack.append(participant)
+  
+              if len(current_pack) == 1: 
+                  tags = list(map(lambda m: f"[{random.choice(status)}](tg://user?id={m.id})", current_pack))
+                  current_pack = []
+  
+                  if sozsts:
+                      tags.append(sozsts)
+  
+                  await event.client.send_message(event.chat_id, " ".join(tags))
+                  await asyncio.sleep(3) 
+      finally:
+          FlagContainer.is_active = False
+
+# Stop (Tağ Dayandırmaq)
 @aykhan(outgoing=True, pattern="^.stp")
 async def restart(event):
     await event.edit("⛔ **Tağ prosesi dayandırıldı**")
     if BOTLOG:
         await event.client.send_message(BOTLOG_CHATID, "🤖 **UserBot** \n⛔ **Tağ prosesi dayandırıldı**\n"
-                                        "👨🏻‍💻 **Sahib -** @aykhan_s\n**🙈 Qrupa bax -** @UFOHousee51")
+                                        "👨🏻‍💻 **Sahib -** @aykhan_s\n📣 **Rəsmi Kanal** @RoBotlarimTg")
 
     try:
         await bot.disconnect()
@@ -498,17 +631,19 @@ async def restart(event):
     execl(sys.executable, sys.executable, *sys.argv)
 # Əkmə oğul...!!!
 CmdHelp('tyeni').add_command(
-    'ntag', None, '<Mesajınız> Normal tağ edir'
+    'mtag', '<Mesajınız>', ' Musiqi adlarıyla tağ edir'
 ).add_command(
-    'adtag', None, '<Mesajınız> Dəyişiy adlarla tağ edir'
+    'adtag', '<Mesajınız>', ' Dəyişiy adlarla tağ edir'
 ).add_command(
-    'rgtag', None, '<Mesajınız> Rəngli tağ edir'
+    'stag', '<Mesajınız>', ' Status mesajlarıyla tağ edir'
 ).add_command(
-    'rqtag', None, '<Mesajınız> Rəqəmlərlə tağ edir'
+    'rgtag', '<Mesajınız>', ' Rəngli tağ edir'
 ).add_command(
-    'emtag', None, '<Mesajınız> Emojilərlə tağ edir'
+    'rqtag', '<Mesajınız>', ' Rəqəmlərlə tağ edir'
 ).add_command(
-    'ctag', None, '<Mesajınız> Cümlələrlə və maraqlı sözlərlə tək tək tağ edir'
+    'emtag', '<Mesajınız>', ' Emojilərlə tağ edir'
 ).add_command(
-    'stp', None, '⛔Aktiv tağ prosesini dayandırır\n\n ✅Sahib - @aykhan_s'
+    'ctag', '<Mesajınız>', ' Cümlələrlə və maraqlı sözlərlə tək tək tağ edir'
+).add_command(
+    'stp', None, '⛔Aktiv tağ prosesini dayandırır\n\n👨🏻‍💻Sahib - @aykhan_s\n📣 Rəsmi Kanal - @RoBotlarimTg'
 ).add()
