@@ -620,8 +620,8 @@ async def stag(event):
 async def restart(event):
     await event.edit("⛔ **Tağ prosesi dayandırıldı**")
     if BOTLOG:
-        await event.client.send_message(BOTLOG_CHATID, "🤖 **UserBot** \n⛔ **Tağ prosesi dayandırıldı**\n"
-                                        "👨🏻‍💻 **Sahib -** @aykhan_s\n📣 **Rəsmi Kanal** @RoBotlarimTg")
+        await event.client.send_message(BOTLOG_CHATID, "⛔ **Tağ prosesi dayandırıldı**\n"
+                                        )
 
     try:
         await bot.disconnect()
@@ -630,7 +630,7 @@ async def restart(event):
 
     execl(sys.executable, sys.executable, *sys.argv)
 # Əkmə oğul...!!!
-CmdHelp('tyeni').add_command(
+CmdHelp('tagger').add_command(
     'mtag', '<Mesajınız>', ' Musiqi adlarıyla tağ edir'
 ).add_command(
     'adtag', '<Mesajınız>', ' Dəyişiy adlarla tağ edir'
