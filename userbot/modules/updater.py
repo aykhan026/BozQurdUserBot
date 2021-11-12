@@ -81,7 +81,7 @@ async def upstream(ups):
         repo.heads.seden.checkout(True)
 
     ac_br = repo.active_branch.name
-    if ac_br != 'main':
+    if ac_br != 'master':
         await ups.edit(LANG['INVALID_BRANCH'])
         repo.__del__()
         return
