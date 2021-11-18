@@ -2,6 +2,7 @@
 # Burdan hər hansı bir şeyi
 # Kopyalayan Peysərdi...!!!
 # Sahib - @aykhan_s
+# _-_-_-_-_-_-_-_-_-_-_-_-_-_ #
 
 import random
 import asyncio
