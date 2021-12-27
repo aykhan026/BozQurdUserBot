@@ -276,7 +276,7 @@ async def stag(event):
 async def restart(event):
     await event.edit("⛔ **Tağ prosesi dayandırıldı**")
     if BOTLOG:
-        await event.client.send_message(BOTLOG_CHATID, "⛔ **Tağ prosesi dayandırıldı**\n"
+        await event.client.send_message(BOTLOG_CHATID, "⛔ **Tağ prosesi dayandırıldı**\n👨🏻‍💻 **Sahib -** @aykhan_s"
                                         )
 
     try:
